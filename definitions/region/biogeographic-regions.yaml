@@ -1,13 +1,31 @@
 # Source: https://en.wikipedia.org/wiki/Biogeographic_regions_of_Europe
 - Biogeographic regions (Europe):
-    - Arctic
-    - Atlantic
-    - Boreal
-    - Continental
-    - Alpine
-    - Pannonian
-    - Steppic
-    - Black Sea
-    - Mediterranean
-    - Macaronesian
-    - Anatolian
+    - Arctic:
+        countries: Iceland, Norway, Russia
+    - Atlantic:
+        countries: Belgium, Germany, Denmark, Spain, France, Ireland, Portugal,
+          Netherlands, United Kingdom
+    - Boreal:
+        countries: Estonia, Finland, Latvia, Lithuania, Sweden, Belarus, Russia
+    - Continental:
+        countries: Austria, Belgium, Bulgaria, Czech Republic, Germany, Denmark, France,
+          Italy, Luxembourg, Poland, Romania, Sweden, Slovenia, Belarus, Ukraine,
+          Russia, Moldova, Serbia
+    - Alpine:
+        countries: Austria, Bulgaria, Germany, Spain, Finland, France, Italy, Poland,
+          Romania, Sweden, Slovenia, Slovakia, Ukraine, Russia, Georgia, Armenia
+        mountain_ranges: Alps, Pyrenees, Carpathians, Dinaric Alps, Balkans, Rhodopes,
+          Sondes, Urals, Caucasia
+    - Pannonian:
+        countries: Czech Republic, Hungary, Romania, Serbia, Slovakia, Ukraine
+    - Steppic:
+        countries: Romania, Moldova, Ukraine, Russia
+    - Black Sea:
+        countries: Bulgaria, Romania, Turkey, Georgia
+    - Mediterranean:
+        countries: Cyprus, Spain, France, Greece, Italy, Malta, Portugal, Turkey
+    - Macaronesian:
+        countries: Spain, Portugal
+        mountain_ranges: Azores, Madeira, Canaries islands
+    - Anatolian:
+        countries: Turkey
