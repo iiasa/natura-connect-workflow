@@ -2,6 +2,7 @@
 
 Copyright 2022-2023 IIASA
 
+[![License: CC-BY 4.0](https://img.shields.io/github/license/iiasa/natura-connect-workflow)](https://github.com/iiasa/natura-connect-workflow/blob/main/LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 ## Overview
