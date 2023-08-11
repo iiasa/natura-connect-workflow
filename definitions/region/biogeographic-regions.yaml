@@ -1,31 +1,27 @@
-# Source: https://en.wikipedia.org/wiki/Biogeographic_regions_of_Europe
+# Source: Intersection of European countries outline with EEA Biogeographic region
+# https://www.eea.europa.eu/data-and-maps/data/biogeographical-regions-europe-3
 - Biogeographic regions (Europe):
-    - Arctic:
-        countries: Iceland, Norway, Russia
-    - Atlantic:
-        countries: Belgium, Germany, Denmark, Spain, France, Ireland, Portugal,
-          Netherlands, United Kingdom
-    - Boreal:
-        countries: Estonia, Finland, Latvia, Lithuania, Sweden, Belarus, Russia
-    - Continental:
-        countries: Austria, Belgium, Bulgaria, Czech Republic, Germany, Denmark, France,
-          Italy, Luxembourg, Poland, Romania, Sweden, Slovenia, Belarus, Ukraine,
-          Russia, Moldova, Serbia
     - Alpine:
-        countries: Austria, Bulgaria, Germany, Spain, Finland, France, Italy, Poland,
-          Romania, Sweden, Slovenia, Slovakia, Ukraine, Russia, Georgia, Armenia
-        mountain_ranges: Alps, Pyrenees, Carpathians, Dinaric Alps, Balkans, Rhodopes,
-          Sondes, Urals, Caucasia
-    - Pannonian:
-        countries: Czech Republic, Hungary, Romania, Serbia, Slovakia, Ukraine
-    - Steppic:
-        countries: Romania, Moldova, Ukraine, Russia
-    - Black Sea:
-        countries: Bulgaria, Romania, Turkey, Georgia
+        countries: Albania, Andorra, Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Finland, France, Germany, Greece, Hungary, Italy, Kosovo, Liechtenstein, Montenegro, North Macedonia, Norway, Poland, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland
+    - Arctic:
+        countries: Norway
+    - Atlantic:
+        countries: Belgium, Denmark, France, Germany, Ireland, Netherlands, Norway, Portugal, Spain, United Kingdom
+    - BlackSea:
+        countries: Bulgaria, Romania
+    - Boreal:
+        countries: Estonia, Finland, Latvia, Lithuania, Norway, Poland, Sweden
+    - Continental:
+        countries: Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, France, Germany, Greece, Hungary, Italy, Kosovo, Lithuania, Luxembourg, Netherlands, North Macedonia, Poland, Romania, San Marino, Serbia, Slovakia, Slovenia, Sweden, Switzerland
+    - Macaronesia:
+        countries: Portugal, Spain
     - Mediterranean:
-        countries: Cyprus, Spain, France, Greece, Italy, Malta, Portugal, Turkey
-    - Macaronesian:
-        countries: Spain, Portugal
-        mountain_ranges: Azores, Madeira, Canaries islands
-    - Anatolian:
-        countries: Turkey
+        countries: Albania, Andorra, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, France, Greece, Italy, Malta, Montenegro, North Macedonia, Northern Cyprus, Portugal, Slovenia, Spain, Vatican City
+    - Outside:
+        countries: Spain    
+    - Pannonian:
+        countries: Austria, Croatia, Czechia, Hungary, Romania, Serbia, Slovakia, Slovenia
+    - Steppic:
+        countries: Bulgaria, Romania, Moldova
+    - Black Sea:
+        countries: Bulgaria, Romania
