@@ -2,26 +2,26 @@
 # https://www.eea.europa.eu/data-and-maps/data/biogeographical-regions-europe-3
 - Biogeographic regions (Europe):
     - Alpine:
-        countries: Albania, Andorra, Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Finland, France, Germany, Greece, Hungary, Italy, Kosovo, Liechtenstein, Montenegro, North Macedonia, Norway, Poland, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland
+        countries: [ Albania, Andorra, Austria, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Finland, France, Germany, Greece, Hungary, Italy, Kosovo, Liechtenstein, Montenegro, North Macedonia, Norway, Poland, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland ]
     - Arctic:
-        countries: Norway
+        countries: [ Norway ]
     - Atlantic:
-        countries: Belgium, Denmark, France, Germany, Ireland, Netherlands, Norway, Portugal, Spain, United Kingdom
+        countries: [ Belgium, Denmark, France, Germany, Ireland, Netherlands, Norway, Portugal, Spain, United Kingdom ]
     - BlackSea:
-        countries: Bulgaria, Romania
+        countries: [ Bulgaria, Romania ]
     - Boreal:
-        countries: Estonia, Finland, Latvia, Lithuania, Norway, Poland, Sweden
+        countries: [ Estonia, Finland, Latvia, Lithuania, Norway, Poland, Sweden ]
     - Continental:
-        countries: Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, France, Germany, Greece, Hungary, Italy, Kosovo, Lithuania, Luxembourg, Netherlands, North Macedonia, Poland, Romania, San Marino, Serbia, Slovakia, Slovenia, Sweden, Switzerland
+        countries: [ Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, France, Germany, Greece, Hungary, Italy, Kosovo, Lithuania, Luxembourg, Netherlands, North Macedonia, Poland, Romania, San Marino, Serbia, Slovakia, Slovenia, Sweden, Switzerland ]
     - Macaronesia:
-        countries: Portugal, Spain
+        countries: [ Portugal, Spain ]
     - Mediterranean:
-        countries: Albania, Andorra, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, France, Greece, Italy, Malta, Montenegro, North Macedonia, Northern Cyprus, Portugal, Slovenia, Spain, Vatican City
+        countries: [ Albania, Andorra, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, France, Greece, Italy, Malta, Montenegro, North Macedonia, Portugal, Slovenia, Spain, Vatican ]
     - Outside:
-        countries: Spain    
+        countries: [ Spain ]  
     - Pannonian:
-        countries: Austria, Croatia, Czechia, Hungary, Romania, Serbia, Slovakia, Slovenia
+        countries: [ Austria, Croatia, Czechia, Hungary, Romania, Serbia, Slovakia, Slovenia ]
     - Steppic:
-        countries: Bulgaria, Romania, Moldova
+        countries: [ Bulgaria, Romania, Moldova ]
     - Black Sea:
-        countries: Bulgaria, Romania
+        countries: [ Bulgaria, Romania ]
